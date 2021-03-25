@@ -1,0 +1,8 @@
+README.md
+setup.py
+analytics_cli.egg-info/PKG-INFO
+analytics_cli.egg-info/SOURCES.txt
+analytics_cli.egg-info/dependency_links.txt
+analytics_cli.egg-info/entry_points.txt
+analytics_cli.egg-info/requires.txt
+analytics_cli.egg-info/top_level.txt
